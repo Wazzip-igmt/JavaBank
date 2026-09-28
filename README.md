@@ -99,7 +99,7 @@ O usuário escolhe uma operação e o sistema executa as regras correspondentes.
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Sistemabancario.git
+git clone https://github.com/Wazzip-igmt/JavaBank.git
 ```
 
 Depois, abra o projeto na sua IDE e execute a classe principal:
